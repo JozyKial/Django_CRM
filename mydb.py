@@ -2,6 +2,9 @@
 # pip install mysql
 # pip install mysql-connector-python
 
+# login to the admin
+# username : jobekis, mdp : dcrm23
+
 
 import mysql.connector
 
